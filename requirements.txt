@@ -1,0 +1,9 @@
+gradio
+gtts
+elevenlabs
+pydub
+speechrecognition
+groq
+python-dotenv
+deep-translator
+langdetect
