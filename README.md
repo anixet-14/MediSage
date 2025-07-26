@@ -90,6 +90,10 @@ python app.py
 > ➤ Diagnosis: "These may be symptoms of viral infection. Stay hydrated and consider paracetamol."  
 > ➤ Played via TTS.
 
+
+## 🚀 Demo
+![MediSage](./examples/example1.png)
+
 ---
 
 ## 🔒 Security Note
