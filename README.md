@@ -92,7 +92,8 @@ python app.py
 
 
 ## 🚀 Demo
-![MediSage](./examples/example1.png)
+![MediSage](./Examples/example1.png)
+![MediSage](./Examples/example2.png)
 
 ---
 
